@@ -39,8 +39,6 @@ Now, let's compare each individual score:
 , so Bob receives  point.
 Alice's comparison score is , and Bob's comparison score is . Thus, we print 1 1 (Alice's comparison score followed by Bob's comparison score) on a single line. */
 
-
-
 // COMPLECITY: O(n)
 #include <math.h>
 #include <stdio.h>
@@ -49,9 +47,6 @@ Alice's comparison score is , and Bob's comparison score is . Thus, we print 1 1
 #include <assert.h>
 #include <limits.h>
 #include <stdbool.h>
-
-
-
 
 int main() {
     int a0; 
