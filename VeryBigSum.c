@@ -50,8 +50,8 @@ int main(){
 	// Iterating and simply getting the result
 	// Basic maths
 	for(int arr_i = 0; arr_i < n; arr_i++){
-       scanf("%lld",&arr[arr_i]);
-       sum  += arr[arr_i];
+        scanf("%lld",&arr[arr_i]);
+        sum  += arr[arr_i];
     }
     
     // Printing the result
