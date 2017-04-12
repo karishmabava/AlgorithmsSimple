@@ -45,6 +45,7 @@ Note: |x| is absolute value function */
  * diagonal elements are 00,11,22 left side and 02,11,20 right side */
 // ================================
 
+// Complexity = O(n)
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
