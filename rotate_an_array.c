@@ -1,3 +1,8 @@
+// Algorithm: we will use the reverse algorithm.
+// Rotate an array by 0 to d-1 elements.
+// Rotate an array by d to n-1 elements
+// Rotate an array by 0 to n-1 elements.
+
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
